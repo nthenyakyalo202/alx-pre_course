@@ -1,1 +1,1 @@
-reating a directory inside a repository
+creating a directory inside a repository
